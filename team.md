@@ -1,6 +1,8 @@
 ## John Cardeccia - add personal info to team.md
 
 ## Payton Cox - add personal info to team.md
+3rd year student at **NAU**, I am 22 yers old studying Computer Science.
+One of my favorite things to do is cook
 
 ## Erick Salazar - add personal info to team.md
 
