@@ -9,4 +9,6 @@ One of my favorite things to do is cook
 
 ## Adriel Perez - add personal info to team.md
 
-## Terrell Haywood - add personal info to team.md
+## Terrell Hayward - add personal info to team.md
+Senior at NAU, currently working on Data Science major with minor in Mathematics.
+Love Sports, and play football currently here for NAU.
