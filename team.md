@@ -1,5 +1,5 @@
 ## John Cardeccia - add personal info to team.md
-I'm 36 years old, married, and working torwards a degree in Applied Computer Science.  I'm a big time horror buff.
+I'm 36 years old, married, and working torwards a degree in Applied Computer Science.  I'm a big time horror buff, and a huge fan of DnD.
 
 ## Payton Cox - add personal info to team.md
 3rd year student at **NAU**, I am 22 yers old studying Computer Science.
