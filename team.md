@@ -2,7 +2,7 @@
 I'm 36 years old, married, and working torwards a degree in Applied Computer Science.  I'm a big time horror buff, and a huge fan of DnD.
 
 ## Payton Cox - add personal info to team.md
-3rd year student at **NAU**, I am 22 yers old studying Computer Science.
+3rd year student at **NAU** I am 22 years old studying Computer Science.
 One of my favorite things to do is cook
 
 ## Erick Salazar - add personal info to team.md
