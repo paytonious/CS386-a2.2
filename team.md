@@ -8,6 +8,5 @@ One of my favorite things to do is cook
 ## Erick Salazar - add personal info to team.md
 
 ## Adriel Perez - add personal info to team.md
-Junior at NAU hopefully graduating in Computer Science! I would love to cook along with Payton :)
 
 ## Terrell Haywood - add personal info to team.md
