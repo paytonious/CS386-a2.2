@@ -6,7 +6,9 @@ I'm 36 years old, married, and working torwards a degree in Applied Computer Sci
 One of my favorite things to do is cook
 
 ## Erick Salazar - add personal info to team.md
+I'm 20 years old, and studying for a degree in Computer Science. I am a big fan of metal.
 
 ## Adriel Perez - add personal info to team.md
+Junior at NAU hopefully graduating in Computer Science! I would love to cook along with Payton :)
 
 ## Terrell Haywood - add personal info to team.md
