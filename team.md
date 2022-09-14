@@ -11,4 +11,6 @@ I'm 20 years old, and studying for a degree in Computer Science. I am a big fan 
 ## Adriel Perez - add personal info to team.md
 Junior at NAU hopefully graduating in Computer Science! I would love to cook along with Payton :)
 
-## Terrell Haywood - add personal info to team.md
+## Terrell Hayward - add personal info to team.md
+Senior at NAU, currently working on Data Science major with minor in Mathematics.
+Love Sports, and play football currently here for NAU.
